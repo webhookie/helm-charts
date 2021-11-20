@@ -9,7 +9,7 @@
 # when the hash of the last commit in the branch you set up changes. This does
 # NOT apply to ownership claim operations, which are processed immediately.
 #
-repositoryID: webhookie
+repositoryID: b3ec701b-af4e-41c3-8861-b4c811b7b690
 owners: # (optional, used to claim repository ownership)
   - name: Arthur Kazemi
     email: arthur@webhookie.com
