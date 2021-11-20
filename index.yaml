@@ -3,9 +3,9 @@ entries:
   webhookie:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-11-20T16:07:31.305624+03:30"
+    created: "2021-11-20T16:44:22.589193+03:30"
     description: Webhookie Community Edition Helm chart for Kubernetes
-    digest: 0b17d89f6a9bb6fdd680d4dca16f757e4c9ed6d476686dcc18b5531e6b91054f
+    digest: 8e69c4cbeb24bab6748fd35c3daf80656f24ee0cffc50dc397f0647684d327b3
     name: webhookie
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   webhookie-all:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-11-20T16:07:31.306095+03:30"
+    created: "2021-11-20T16:44:22.589618+03:30"
     description: Webhookie Community Edition Helm chart for Kubernetes with all dependencies
-    digest: 28a3e488926c1081e7240f6b53e345c686052f3914f9d85e623edc61bfd3f8e8
+    digest: 1d5e0d9e5b224ff673ba210aff8142189cb759fa3fdd15927e4a9d850ecbf4a8
     name: webhookie-all
     type: application
     urls:
     - https://webhookie.github.io/helm-charts/webhookie-all-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-20T16:07:31.305343+03:30"
+generated: "2021-11-20T16:44:22.588607+03:30"
