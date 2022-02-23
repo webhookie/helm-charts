@@ -3,9 +3,9 @@ entries:
   webhookie:
   - apiVersion: v2
     appVersion: 1.3.5
-    created: "2022-02-24T00:35:21.638997+11:00"
+    created: "2022-02-24T01:15:31.031292+11:00"
     description: webhookie Helm chart for Kubernetes
-    digest: 34ff58bfbfb5787e4d13687a9c610a44f5dc694b1927799868b10cc92d251f38
+    digest: ebdd13bfa0dc191c5ad757a7407517779f04e564921df0717eeacd8b3f505275
     name: webhookie
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   webhookie-all:
   - apiVersion: v2
     appVersion: 1.3.5
-    created: "2022-02-24T00:35:21.639719+11:00"
+    created: "2022-02-24T01:15:31.031922+11:00"
     description: Webhookie with mongodb and keycloak Helm chart for Kubernetes
-    digest: d72ce847f73d8643b5e84c66e1e4c9ce1c5906ac09a91162310b98918ee41305
+    digest: fe3baa3404b34edd994a2978b75e56a7b445f78aa580817455c429da27917619
     name: webhookie-all
     type: application
     urls:
@@ -25,10 +25,10 @@ entries:
   webhookie-all-branded:
   - apiVersion: v2
     appVersion: 1.3.5
-    created: "2022-02-24T00:35:21.640368+11:00"
+    created: "2022-02-24T01:15:31.032578+11:00"
     description: Webhookie with mongodb and keycloak with branding capability Helm
       chart for Kubernetes
-    digest: 73723a59cab9147efc81dc320d412ef69dd7c1b7abbc17d95af142bfaec45712
+    digest: 7d27088121865e14ed2bfb96d82e7bb8f5ecf14961119fef8633e4a037dc3270
     name: webhookie-all-branded
     type: application
     urls:
@@ -37,12 +37,12 @@ entries:
   webhookie-branded:
   - apiVersion: v2
     appVersion: 1.3.5
-    created: "2022-02-24T00:35:21.640569+11:00"
+    created: "2022-02-24T01:15:31.032761+11:00"
     description: Webhookie with branding capability Helm chart
-    digest: 2aa0cc52710c6123ccfbd7bf99fa3fabf404f529115e733ca9f833cdb8a5bac7
+    digest: 787e20f3584dcdaba21f2ce16e41d4f274b84e031388c0c0bfd0a709b100d2f6
     name: webhookie-branded
     type: application
     urls:
     - https://webhookie.github.io/helm-charts/webhookie-branded-0.1.2.tgz
     version: 0.1.2
-generated: "2022-02-24T00:35:21.63828+11:00"
+generated: "2022-02-24T01:15:31.030974+11:00"
