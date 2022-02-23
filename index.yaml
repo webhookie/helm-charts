@@ -3,9 +3,9 @@ entries:
   webhookie:
   - apiVersion: v2
     appVersion: 1.3.5
-    created: "2022-02-23T18:12:35.304826+11:00"
-    description: Webhookie Community Edition Helm chart for Kubernetes
-    digest: ac5785c232681954e849f1cda073ec993b2a3bef6b469275d47acb4d0aa3edec
+    created: "2022-02-23T20:37:17.730336+11:00"
+    description: webhookie Helm chart for Kubernetes
+    digest: 65a92b0fbae01de6766e88fa9bbf0fd0e9d0aadea2f3ea080c3b6f4dcbca56a7
     name: webhookie
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   webhookie-all:
   - apiVersion: v2
     appVersion: 1.3.5
-    created: "2022-02-23T18:12:35.305377+11:00"
-    description: Webhookie Community Edition Helm chart for Kubernetes with all dependencies
-    digest: a72e5828a9cfa5437496808aa64a3f9d40c0e124f3bf4ef046115d5dd6245638
+    created: "2022-02-23T20:37:17.731008+11:00"
+    description: Webhookie with mongodb and keycloak Helm chart for Kubernetes
+    digest: a82406ed3cb2fc48fafbde78cbb23ce3b2ee3fc520775e9f02f8a9613c5820ee
     name: webhookie-all
     type: application
     urls:
@@ -25,24 +25,47 @@ entries:
   webhookie-all-arm:
   - apiVersion: v2
     appVersion: 1.3.5
-    created: "2022-02-23T18:12:35.30589+11:00"
-    description: Webhookie Community Edition Helm chart for Kubernetes with all dependencies
-      for M1 Macs
-    digest: d814a9ba053927f7df531cf4660c3b05c7158fb6d6d88f1ee4fe35208b9ec3e3
+    created: "2022-02-23T20:37:17.731699+11:00"
+    description: Webhookie with mongodb and keycloak Helm chart for arm architecture
+    digest: 7309488cd4ce57eb39e57f12cf6313515993bf48ab5bd12b5fb1cfc94fd94946
     name: webhookie-all-arm
     type: application
     urls:
     - https://webhookie.github.io/helm-charts/webhookie-all-arm-0.1.2.tgz
     version: 0.1.2
+  webhookie-all-arm-branded:
+  - apiVersion: v2
+    appVersion: 1.3.5
+    created: "2022-02-23T20:37:17.731981+11:00"
+    description: Webhookie with mongodb and keycloak Helm chart for arm architecture
+      with branding capability
+    digest: 9fe7158641cd0dc0033290238974fded4ff55d184e4d9ad3ffd511fd00f7103e
+    name: webhookie-all-arm-branded
+    type: application
+    urls:
+    - https://webhookie.github.io/helm-charts/webhookie-all-arm-branded-0.1.2.tgz
+    version: 0.1.2
+  webhookie-all-branded:
+  - apiVersion: v2
+    appVersion: 1.3.5
+    created: "2022-02-23T20:37:17.732326+11:00"
+    description: Webhookie with mongodb and keycloak with branding capability Helm
+      chart for Kubernetes
+    digest: 48e7aa13942d5bc67109455bea2991a66731de411f3e4f6d2aca722b02daaafc
+    name: webhookie-all-branded
+    type: application
+    urls:
+    - https://webhookie.github.io/helm-charts/webhookie-all-branded-0.1.2.tgz
+    version: 0.1.2
   webhookie-branded:
   - apiVersion: v2
     appVersion: 1.3.5
-    created: "2022-02-23T18:12:35.306073+11:00"
-    description: Webhookie with branding capability Helm chart for Kubernetes
-    digest: 21de73d419a351d8fbc343fb3e1547332571bf69be44909302da1c61ef64bfd4
+    created: "2022-02-23T20:37:17.732509+11:00"
+    description: Webhookie with branding capability Helm chart
+    digest: d2f67aa433fc7f83b2ed2cccce2a1ae090ac72affc6880fdaebc8c3c0ccee5b5
     name: webhookie-branded
     type: application
     urls:
     - https://webhookie.github.io/helm-charts/webhookie-branded-0.1.2.tgz
     version: 0.1.2
-generated: "2022-02-23T18:12:35.30369+11:00"
+generated: "2022-02-23T20:37:17.729989+11:00"
